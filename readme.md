@@ -57,7 +57,7 @@
 
   <img align="left" alt="techmahedy's GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=techmahedy&show_icons=true&hide_border=true" />
 
-</details> -->
+</details> --->
 
 [website]: https://www.tutspack.com
 [youtube]: https://www.youtube.com/channel/UCYxtDC_GVan9l1NFNthS3aQ
