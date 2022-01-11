@@ -69,5 +69,5 @@
 [react]: https://tutspack.com/category/javascript/
 [jquery]: https://tutspack.com/category/javascript/
 [javascript]: https://tutspack.com/category/javascript/
-[git]: https://www.tutspack.com/article/tag/git
-[linux]: https://www.tutspack.com/article/tag/linux
+[git]: https://tutspack.com/category/javascript/
+[linux]: https://tutspack.com/category/javascript/
