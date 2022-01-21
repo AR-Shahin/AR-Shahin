@@ -2,7 +2,7 @@
 
 ## I’m Optimistic and always in hurry kinda person!!
 
-- 🔭 Hi, I’m @shaHin
+- 🔭 Hi, I’m @shahin
 - I'm a Fullstack Web Developer and Problem Solver
 - In leisure time I like to share my knowledge with others by writing blog(https://tutspack.com/)
 - 🌱 I’m currently learning Python and Machine Learing
