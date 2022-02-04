@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Python and Machine Learing
 - 👯 I’m looking to collaborate some big projects
 - 🥅 2022 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love to learn history and story
+- ⚡ Fun fact:: I love to learn history and story
 
 ### Connect with me:
 
