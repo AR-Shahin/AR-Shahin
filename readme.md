@@ -1,6 +1,6 @@
 ### Hi there, I'm Shahin - owner of [tutspack](https://tutspack.com/) 👋
 
-## I’m Optimistic and always in hurry kinda person!!!
+## I’m Optimistic and always in hurry kinda person!!
 
 - 🔭 Hi, I’m @shahin
 - I'm a Fullstack Web Developer and Problem Solver
