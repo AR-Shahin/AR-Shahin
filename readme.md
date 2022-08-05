@@ -1,10 +1,10 @@
-### Hi there, I'm Shahin - owner of [tutspack](https://tutspack.com/) 👋
+### Hi there, I'm Shahin - owner of [CodeShikhi](https://www.codeshikhi.org/) 👋
 
 ## I’m Optimistic and always in hurry kinda person!!
 
 - 🔭 Hi, I’m @shahin
 - I'm a Fullstack Web Developer and Problem Solver
-- In leisure time I like to share my knowledge with others by writing blog(https://tutspack.com/)
+- In leisure time I like to share my knowledge with others by writing blog(https://www.codeshikhi.org/)
 - 🌱 I’m currently learning Python and Machine Learing
 - 👯 I’m looking to collaborate some big projects
 - 🥅 2022 Goals: Contribute to Open Source projects
