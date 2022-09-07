@@ -42,7 +42,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Implement Binary search using recursion in python](https://www.codeshikhi.org/algorithom/implement-binary-search-using-recursion-in-python)
-- [Implement a Binary tree with inOrder postOrder preOrder](https://tutspack.com/implement-a-binary-tree-with-inorder-postorder-preorder/)
+- [Implement a Binary tree with inOrder postOrder preOrder](https://www.codeshikhi.org/data-structure/implement-a-binary-tree-with-inorder-postorder-preorder)
 - [How to implement Singly Link List using C++ with Examples](https://tutspack.com/how-to-implement-singly-link-list-using-c-with-examples/)
 - [Task Scheduling Laravel example with Crontab](https://tutspack.com/task-scheduling-laravel-example-with-crontab/)
 - [CRUD Example with Repository Design Pattern in Laravel](https://tutspack.com/crud-example-with-repository-design-pattern-in-laravel/)
