@@ -49,7 +49,7 @@
 - [Send SMS in mobile using nexmo from laravel application](https://tutspack.com/send-sms-in-mobile-using-nexmo-from-laravel-application/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://www.tutspack.com)
+➡️ [more blog posts...](https://codeshikhi.org/)
 
 ---
 
