@@ -1,4 +1,4 @@
-### Hi there, I'm Shahin - owner of [CodeShikhi](https://www.codeshikhi.org/) 👋
+### Hi there, I'm Anisur Rahamn Shahin - owner of [CodeShikhi](https://www.codeshikhi.org/) 👋
 
 ## I’m Optimistic and always in hurry kinda person!!!
 
@@ -60,14 +60,14 @@
 
 </details> --->
 
-[website]: https://www.tutspack.com
+[website]: https://www.codeshikhi.org/
 [youtube]: https://www.youtube.com/channel/UCYxtDC_GVan9l1NFNthS3aQ
 [twitter]: https://twitter.com/Shahin85080084
 [linkedin]: https://www.linkedin.com/in/anisur-rahman-shahin-31295b186/
-[laravel]: https://tutspack.com/category/laravel/
-[vue]: https://tutspack.com/category/javascript/
-[react]: https://tutspack.com/category/javascript/
-[jquery]: https://tutspack.com/category/javascript/
-[javascript]: https://tutspack.com/category/javascript/
-[git]: https://tutspack.com/category/javascript/
-[linux]: https://tutspack.com/category/javascript/
+[laravel]: https://www.codeshikhi.org/category/laravel
+[vue]: https://www.codeshikhi.org/category/java-script
+[react]: https://www.codeshikhi.org/category/java-script
+[jquery]: https://www.codeshikhi.org/category/java-script
+[javascript]: https://www.codeshikhi.org/category/java-script/
+[git]: https://www.codeshikhi.org/category/java-script
+[linux]: https://www.codeshikhi.org/category/java-script
