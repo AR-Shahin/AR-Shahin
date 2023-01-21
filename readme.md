@@ -2,7 +2,7 @@
 
 ## I’m Optimistic and always in hurry kinda person!
 
-- 🔭 Hi, I’m @shahin
+- 🔭 Hi, I’m @AR Shahin
 - I'm a Fullstack Web Developer and Problem Solver
 - In leisure time I like to share my knowledge with others by writing blog(https://www.codeshikhi.org/)
 - 🌱 I’m currently learning Python and Machine Learing
