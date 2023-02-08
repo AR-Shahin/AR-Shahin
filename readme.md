@@ -1,4 +1,4 @@
-### Hi there, I'm Anisur Rahamn Shahin - owner of [CodeShikhi](https://www.codeshikhi.org/) 👋
+### Hi there, I'm Anisur Rahman Shahin - owner of [CodeShikhi](https://www.codeshikhi.org/) 👋
 
 ## I’m Optimistic and always in hurry kinda person!!
 
