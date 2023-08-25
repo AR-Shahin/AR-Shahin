@@ -2,7 +2,7 @@
 
 ## I’m Optimistic and always in a hurry kinda of person!!
 
-I am **Anisur Rahman Shahin**, a **Software Developer**. I've more than 1.5 years of working experience on **PHP**, **Laravel**, **jQuery**, **VueJS**, **Nuxt JS** and **MYSQL**. Apart from this stack, I've knowledge about **Django**, **Django REST Framework**, and **ExpressJs**. I've also knowledge about **Machine Learning** and **Deep Learning**. I graduated in **Computer Science and Engineering** from Southeast University. Programming is not only my profession but also a passion!
+I am **Anisur Rahman Shahin**, a **Software Developer**. I've more than 1.5 years of working experience on **PHP**, **Laravel**, **jQuery**, **VueJS**, **Nuxt JS** and **MYSQL**. Apart from this stack, I've knowledge about **Django**, **Django REST Framework**, and **ExpressJs**. I've also knowledge about **Machine Learning** and **Deep Learning**. I graduated in **Computer Science and Engineering** from Southeast University. Programming isn't only my profession but also a passion!
 - An enthusiastic Software Developer and Problem Solver
 - In my leisure time I like to share my knowledge with others by making videos(https://www.youtube.com/@arshahin9803)
 - 👯 I’m looking to collaborate on some big projects
