@@ -1,13 +1,6 @@
-### Hi there, I'm Anisur Rahman Shahin 👋
+I am Anisur Rahman Shahin, a passionate Software Developer with over 1.5 years of experience in backend development using PHP (Laravel) and Python (Django, FastAPI). My expertise lies in designing and implementing REST APIs, creating robust MySQL database architectures, and integrating third-party APIs such as Meta, Telegram, and Google Dialogflow.
 
-## I’m Optimistic and always in a hurry kinda of person!!
-
-I am **Anisur Rahman Shahin**, a **Software Developer**. I've more than 1.5 years of working experience on **PHP**, **Laravel**, **jQuery**, **VueJS**, **Nuxt JS** and **MYSQL**. Apart from this stack, I've knowledge about **Django**, **Django REST Framework**, and **ExpressJs**. I've also knowledge about **Machine Learning** and **Deep Learning**. I graduated in **Computer Science and Engineering** from Southeast University. Programming isn't only my profession but also a passion!
-- An enthusiastic Software Developer and Problem Solver
-- In my leisure time I like to share my knowledge with others by making videos(https://www.youtube.com/@arshahin9803)
-- 👯 I’m looking to collaborate on some big projects
-- 🥅 2023 Goals: Contribute to Open Source projects
-- ⚡ Fun fact:: I love to learn history and story
+Currently, I focus on R&D and proof-of-concept (POC) development for GEN AI and LLM-based projects, emphasizing AI automation and chatbot development, while also providing support for existing applications. I hold a degree in Computer Science and Engineering from Southeast University, and I enjoy sharing knowledge through videos on my YouTube channel. I'm always eager to collaborate on innovative projects and contribute to open-source initiatives!
 
 
 
